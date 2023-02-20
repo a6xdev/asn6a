@@ -1,3 +1,3 @@
 # Hello
-Welcome to my profile!! Good, have fun!
+Welcome to my profile!! Have fun!
 
