@@ -1,15 +1,5 @@
 # Hi
-My name is Aislan Alves, and I'm 17 years old. In addition to my passion for games, design and programming, I am also the founder of three startups: Zephyr Interactive, Parthenon Corporation and Firewave Interactive. These companies reflect my commitment to exploring new ideas and driving innovation in the fields of technology and entertainment.
-
-## Open Source Projects
-MindsetPlus **(HTML, CSS AND JS)** <br>
-*[Repository >](https://github.com/asN6a/mindsetplus-zephyr-p)*
-
-Online Catalog **(HTML, CSS AND JS)** <br>
-*[Repository >](https://github.com/asN6a/smartphone_catalog)*
-
-## Personal Private Projects
-??
+My name is Aislan Alves, and I'm 17 years old. In addition to my passion for games, design and programming.
 
 ## Skills
 <div style="display: inline_block">
